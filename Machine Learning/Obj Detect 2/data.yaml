@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/EshanSengupta/YOLOv8/data/train/images
+val: /content/drive/MyDrive/EshanSengupta/YOLOv8/data/valid/images
+
+nc: 6
+names: ['Reflectors', 'Police_Barriers', 'Traffic_Lights', 'Street_Signs', 'Street_Lights', 'Police_Personnel']
